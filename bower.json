@@ -1,0 +1,37 @@
+{
+  "name": "test",
+  "dependencies": {
+    "textAngular": "^1.2.0",
+    "angular-bindonce": "~0.3.0",
+    "angular": "~1.3.0",
+    "angular-strap": "~2.1.0",
+    "angular-motion": "*",
+    "angular-route": "~1.3.0",
+    "angular-animate": "~1.3.0",
+    "angular-resource": "~1.3.0",
+    "angular-better-placeholders": "*",
+    "autofill-event": "~1.0.0",
+    "bootstrap-additions": "~0.2.0",
+    "ng-tags-input": "~2.0.0",
+    "angular-ui-select": "~0.5.0",
+    "interact": "~1.0.0",
+    "font-awesome": "^4.1.0",
+    "ng-table": "~0.3.3",
+    "ng-table-export": "*",
+    "bootstrap-stylus": "~3.2.0",
+    "angular-i18n": "~1.2.23",
+    "angular-nvd3": "~0.0.9",
+    "ng-csv": "~0.2.3"
+  },
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "SimeonC"
+  ],
+  "private": true,
+  "resolutions": {
+    "d3": "~3.4",
+    "angular": "~1.3.0",
+    "angular-animate": "~1.3.0"
+  }
+}
